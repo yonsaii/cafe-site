@@ -1,0 +1,17 @@
+#vbe {
+  text-align: center;
+  font-size: 60px;
+}
+.kat {
+  display: flex;
+  font-style: italic;
+  font-size: 45px;
+  justify-content: space-around;
+  margin-top: 100px;
+  
+}
+.kat a {
+  text-decoration: none;
+  font-style: italic;
+  color: black;
+} 
